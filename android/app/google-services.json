@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "345941823075",
+    "project_id": "front-rn",
+    "storage_bucket": "front-rn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345941823075:android:75a3c43d20475037d13256",
+        "android_client_info": {
+          "package_name": "com.projectfoodapp.comidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345941823075-cld3ddkvfgra3rhohjo3cqud6jkms3n1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPLNUVOeDlHs7r10oChZwmJ4TLLQ-LQbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345941823075-cld3ddkvfgra3rhohjo3cqud6jkms3n1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "345941823075-it07qeiuldiq1d5btbi2nqp29fntgqj0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.projectfood.comidapp",
+                "app_store_id": "123456789"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
